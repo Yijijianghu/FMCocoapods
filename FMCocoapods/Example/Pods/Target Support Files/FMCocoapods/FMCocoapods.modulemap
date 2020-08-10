@@ -1,0 +1,6 @@
+framework module FMCocoapods {
+  umbrella header "FMCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}

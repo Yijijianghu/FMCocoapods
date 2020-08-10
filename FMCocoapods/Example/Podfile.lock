@@ -1,0 +1,16 @@
+PODS:
+  - FMCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - FMCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  FMCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMCocoapods: 7a8d518f5df82410eda7ce4d4c519e98931793e7
+
+PODFILE CHECKSUM: 31a5070c13edd136c199471a8193d19e1fd621c1
+
+COCOAPODS: 1.9.3
